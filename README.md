@@ -13,7 +13,7 @@
 
 ```bash
 git clone git@github.com:vinay-light/NodejsAdvanceConcept.git
-cd your-repo
+cd NodejsAdvanceConcept
 ```
 
 ---
